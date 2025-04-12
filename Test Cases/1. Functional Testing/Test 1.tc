@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with actual account</description>
+   <name>Test 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>270c9ea1-ce8f-4447-b9e0-762d51f2fa7e</testCaseGuid>
+</TestCaseEntity>

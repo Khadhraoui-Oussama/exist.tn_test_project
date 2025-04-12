@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Un utilisateur se connecte en utilisant une icône Facebook, Twitter ou Instagram.</description>
+   <name>AuthTC3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efc017fa-eb9d-48b1-9e9e-af070b485f17</testCaseGuid>
+</TestCaseEntity>
