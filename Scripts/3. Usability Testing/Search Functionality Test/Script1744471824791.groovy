@@ -17,3 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.exist.com.tn/')
+
+WebUI.setText(findTestObject('Object Repository/3. Usability Testing/Search Functionality Test/Page_Exist, vente en ligne vtement pour hom_b8fd83/input__s'), 
+    'montre')
+
+WebUI.click(findTestObject('Object Repository/3. Usability Testing/Search Functionality Test/Page_Exist, vente en ligne vtement pour hom_b8fd83/button_Rechercher'))
+
+WebUI.closeBrowser()
+
