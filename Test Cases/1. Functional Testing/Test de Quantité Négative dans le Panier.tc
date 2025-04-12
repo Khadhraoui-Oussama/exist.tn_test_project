@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier que le site empêche l'ajout d'une quantité négative d'un produit dans le panier.</description>
+   <name>Test de Quantité Négative dans le Panier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63491f7f-cb49-456a-833e-c7ce827b8631</testCaseGuid>
+</TestCaseEntity>

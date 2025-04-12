@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier que l'ajout d'un article au panier fonctionne correctement</description>
+   <name>Ajout au Panier</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36e2cd64-f92c-4946-9d30-6fa0a2fd42fa</testCaseGuid>
+</TestCaseEntity>

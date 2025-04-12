@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mon compte</name>
+   <tag></tag>
+   <elementGuidId>b89a7c9e-82e8-46b0-a97e-32e70495954b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tm_userinfotitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_desktop_user_info']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mon compte&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bbc28bd-a7fe-431f-9f73-262828fb54f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tm_userinfotitle</value>
+      <webElementGuid>af18652e-d44f-43b2-9b2e-442766f58c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mon compte</value>
+      <webElementGuid>91c593ae-b05c-465b-abf4-f4ebcf4c6de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;header-nav&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;hidden-md-down&quot;]/div[@class=&quot;right-nav&quot;]/div[@id=&quot;_desktop_user_info&quot;]/div[@class=&quot;tm_userinfotitle&quot;]</value>
+      <webElementGuid>a498ce0a-54ed-4521-a591-99cc8cca81ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_desktop_user_info']/div</value>
+      <webElementGuid>741440f5-a58a-4e4a-8165-ab963c6d9079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rechercher'])[1]/following::div[2]</value>
+      <webElementGuid>141a3921-d826-4ce2-afa0-8246a917d9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[2]</value>
+      <webElementGuid>ee22b294-d5e4-4b20-ad17-c7491231a40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[1]</value>
+      <webElementGuid>7db4c22c-41b9-47e0-91dc-6dffb5c506e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[1]</value>
+      <webElementGuid>06299e36-d07d-4965-9470-4d815e54964f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mon compte']/parent::*</value>
+      <webElementGuid>28902820-0da8-454c-a1eb-7737484368c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>e5cbcd01-1ff6-4b04-bba3-40e6f7b2d135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mon compte' or . = 'Mon compte')]</value>
+      <webElementGuid>ae15eefc-eeca-41ee-a7b9-c990a58a3249</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
