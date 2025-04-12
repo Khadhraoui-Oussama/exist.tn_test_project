@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ce test vérifie un bug où le panier d'achat devient vide après la déconnexion de l'utilisateur.</description>
+   <name>Bug_Panier_vide_après_déconnexion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47096495-76d5-4852-8277-d6e155580fab</testCaseGuid>
+</TestCaseEntity>

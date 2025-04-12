@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier que la page de connexion accepte des identifiants valides et redirige vers la page d'accueil.</description>
+   <name>Email_Validation_True</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2fc7ee4-d461-44a2-9c94-6547ef5a0033</testCaseGuid>
+</TestCaseEntity>

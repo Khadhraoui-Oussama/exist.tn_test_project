@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Tester la capacité de supprimer un article du panier.</description>
-   <name>Suppression du Panier</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>abb52c57-e5e3-498b-9b85-e8a8cf82043a</testCaseGuid>
-</TestCaseEntity>

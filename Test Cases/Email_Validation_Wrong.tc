@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the email field accepts only valid email addresses during registration.</description>
+   <name>Email_Validation_Wrong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95a52559-9c2c-4f76-a3ad-5fac36fe337a</testCaseGuid>
+</TestCaseEntity>

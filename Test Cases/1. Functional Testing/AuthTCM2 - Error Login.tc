@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Have a user use an incorrect password.</description>
-   <name>AuthTCM2 - Error Login</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b69ede21-efe1-4209-952c-bfc5f466f9d8</testCaseGuid>
-</TestCaseEntity>

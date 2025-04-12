@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifiez que le menu de navigation principal fonctionne correctement et mène aux pages attendues.</description>
+   <name>Tester le menu de navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>526edd81-cf91-4ff6-88c1-0c91190b813e</testCaseGuid>
+</TestCaseEntity>
