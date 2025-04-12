@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test is mainly to verify the login</description>
+   <name>AuthTCM1 - Successful Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db38d187-eb3f-4369-a24e-bcd1d5f9b5e6</testCaseGuid>
+</TestCaseEntity>

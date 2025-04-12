@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_106,99TND</name>
+   <tag></tag>
+   <elementGuidId>79d9135c-5936-49f0-8153-4f4be4e545d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.hidden-md-down.value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_desktop_cart']/div/div/a/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;shopping_cart Panier 106,99 TND - 1 Articles &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d1d9844-ba88-46dc-990f-74fac3d295c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-md-down value</value>
+      <webElementGuid>ea0a296a-3ab9-43de-bef6-cd89cb471afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>106,99 TND</value>
+      <webElementGuid>361ef6fa-4e59-46c4-bf02-ad279a0e2877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_desktop_cart&quot;)/div[@class=&quot;blockcart cart-preview active&quot;]/div[@class=&quot;header blockcart-header dropdown js-dropdown&quot;]/a[@class=&quot;cart&quot;]/div[@class=&quot;cart-price&quot;]/span[@class=&quot;hidden-md-down value&quot;]</value>
+      <webElementGuid>67859790-1791-44a6-b926-f7699b34c46f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_desktop_cart']/div/div/a/div/span[2]</value>
+      <webElementGuid>b6c82bc6-a62b-4d77-9821-ff9966beec8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panier'])[1]/following::span[1]</value>
+      <webElementGuid>e3989683-9576-41d0-88ef-c75302c6890e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::span[2]</value>
+      <webElementGuid>a82b314b-c06e-4b9b-8c67-04305a7bb887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- 1 Articles'])[1]/preceding::span[1]</value>
+      <webElementGuid>d2647fc0-96d2-4ac1-925f-5aba647b4ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[5]/preceding::span[3]</value>
+      <webElementGuid>d631a8e6-3893-44f8-a85e-8289e2520dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='106,99 TND']/parent::*</value>
+      <webElementGuid>eca10329-c41b-445d-8636-da2c9f0b1325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b76b0809-cc69-4a35-958b-bcee63cdafe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '106,99 TND' or . = '106,99 TND')]</value>
+      <webElementGuid>1c4a87a1-afd3-4a24-8a18-71b50187d1c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

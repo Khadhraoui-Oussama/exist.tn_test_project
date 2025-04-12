@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rechercher</name>
+   <tag></tag>
+   <elementGuidId>052383f4-b5b1-4a2f-9599-d1c35eaab20c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.headerdiv > div.main_search > #search_widget > div.searchtoggle > form > button[type=&quot;submit&quot;] > span.hidden-md-down.search_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='search_widget']/div/form/button/span)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Rechercher&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4a3306d-5a73-4972-b890-1b76c3f27cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-md-down search_title</value>
+      <webElementGuid>57c7dce0-6ddf-4c77-bc4f-be539544c59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rechercher</value>
+      <webElementGuid>1abcf1cd-8deb-44a7-bd20-803e17df0310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;headerdiv&quot;]/div[@class=&quot;main_search&quot;]/div[@id=&quot;search_widget&quot;]/div[@class=&quot;searchtoggle&quot;]/form[1]/button[1]/span[@class=&quot;hidden-md-down search_title&quot;]</value>
+      <webElementGuid>c3351e00-b557-4cb3-9b77-823583298d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='search_widget']/div/form/button/span)[3]</value>
+      <webElementGuid>a4efeb48-66c9-441b-a9cb-f135160c24c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[3]/following::span[1]</value>
+      <webElementGuid>ed161fad-d8d1-47c8-9cf0-fc5c98c6088a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[5]/following::span[2]</value>
+      <webElementGuid>4aff59eb-d10c-4870-b415-9564868eccec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/preceding::span[1]</value>
+      <webElementGuid>9b44ae22-6321-4084-9906-0a401d8441ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf487637-8348-4a3f-bf09-f8d6fe953722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/button/span</value>
+      <webElementGuid>c5f5b815-8cb5-4524-b7e1-161b8831c189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rechercher' or . = 'Rechercher')]</value>
+      <webElementGuid>341e7dd7-7ea6-4b12-973b-1b96e24d44f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

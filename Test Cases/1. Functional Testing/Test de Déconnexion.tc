@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier que la fonction de déconnexion fonctionne correctement et redirige vers la page de connexion.</description>
+   <name>Test de Déconnexion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>209bd25f-be19-4555-953b-e2363c3994bb</testCaseGuid>
+</TestCaseEntity>

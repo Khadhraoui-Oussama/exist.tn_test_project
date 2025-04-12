@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the search bar returns relevant results for specific product keywords.</description>
+   <name>Search Functionality Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b353c7f-811c-4af0-8cfb-141b0ee012e0</testCaseGuid>
+</TestCaseEntity>
